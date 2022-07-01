@@ -1,12 +1,11 @@
 import React from 'react';
 import styles from './styles.module.css';
-import clsx from 'clsx';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 function SimpleSlider() {
-  var settings = {
+  const settings = {
     dots: true,
     infinite: true,
     speed: 500,
