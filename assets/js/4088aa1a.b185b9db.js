@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[3928],{6927:(e,u,t)=>{t.r(u),t.d(u,{default:()=>s});var a=t(7294),l=t(5257);function s(){return a.createElement(l.Z,null,a.createElement("h1",null,"My page"),a.createElement("p",null,"This is a test page"))}}}]);
