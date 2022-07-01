@@ -1,0 +1,28 @@
+.testFeatures {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+}
+
+.testFeatures h2 {
+  padding: 2em;
+  width: 100%;
+}
+
+.carouselRow {
+  margin-bottom: 6em;
+}
+
+.carousel {
+    margin-bottom: 6em;
+}
+
+.carousel img {
+  width: 100%;
+}
+
+.carousel button::before {
+  color: #000;
+}
+
